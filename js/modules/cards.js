@@ -1,3 +1,4 @@
+import { getResource } from "../services/services";
 function cards() {
   //Classes for Cards
 
@@ -57,4 +58,4 @@ function cards() {
   });
 }
 
-module.exports = cards;
+export default cards;
