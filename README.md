@@ -5,6 +5,8 @@ Installation
 Use the npm to install.
 
 npm install 
+
+
 Brief description of the project
 Development of the Landing Page of a catering company.
 The basis of LP interactivity is JavaScript. In particular, implemented in JS:
