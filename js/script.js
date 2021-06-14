@@ -35,5 +35,5 @@ window.addEventListener("DOMContentLoaded", () => {
     field: ".offer__slider-inner",
     slide: ".offer__slide",
   });
-  timer(".timer", "2021-06-11");
+  timer(".timer", "2021-08-11");
 });
